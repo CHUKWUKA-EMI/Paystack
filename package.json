@@ -1,0 +1,27 @@
+{
+  "name": "@chukwukaemi/paystack",
+  "version": "1.0.1",
+  "description": "Paystack package for nodejs",
+  "main": "index.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Paystack",
+    "Payments",
+    "Nodejs",
+    "Transactions",
+    "Chukwuka"
+  ],
+  "author": "Chukwuka Emi (https://chukwukaemi.netlify.app)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.0"
+  }
+}

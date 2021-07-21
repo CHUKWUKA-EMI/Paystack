@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Paystack package for nodejs",
   "main": "index.ts",
+  "repository": {
+    "url": "https://github.com/CHUKWUKA-EMI/Paystack.git"
+  },
+  "homepage": "https://github.com/CHUKWUKA-EMI/Paystack.git",
   "directories": {
     "test": "test"
   },

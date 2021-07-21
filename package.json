@@ -1,6 +1,6 @@
 {
   "name": "@chukwukaemi/paystack",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Paystack package for nodejs",
   "main": "index.ts",
   "directories": {

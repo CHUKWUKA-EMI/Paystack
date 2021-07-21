@@ -2,7 +2,7 @@
   "name": "@chukwukaemi/paystack",
   "version": "2.0.0",
   "description": "Paystack package for nodejs",
-  "main": "index.ts",
+  "main": "build/src/index.js",
   "repository": {
     "url": "https://github.com/CHUKWUKA-EMI/Paystack.git"
   },
